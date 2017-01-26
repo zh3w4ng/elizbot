@@ -1,0 +1,42 @@
+div#conversation {
+  display: block;
+  padding: 6px;
+  margin-bottom: 12px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  font-family: inherit;
+  font-size: 1em;
+}
+
+div#conversation::-webkit-scrollbar {
+  width: 12px;
+}
+
+div#conversation::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+div#conversation::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: rgba(236, 236, 236, 0.8);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+div#conversation::-webkit-scrollbar-thumb:window-inactive {
+  background: rgba(236, 236, 236, 0.4);
+}
+
+.botsay { color: #9A9993 }
+.usersay { color: #57514B }
+
+.whosay {
+  width: 40px;
+  display: inline-block;
+}
+
+.elizbotlinks{
+  font-size: 0.8em;
+}
