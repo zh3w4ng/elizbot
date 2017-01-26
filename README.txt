@@ -1,14 +1,10 @@
-=== Elizaibots ===
-Contributors: liseperu
-Donate link: Paypal (elizaibeth@elizaibeth.com)
+=== Elizbot ===
+Contributors: zh3w4ng
 Tags: chatbot, chatterbot, chat bot, program o, programo, program-o, william shakespeare, shakespeare, shakespearebot, shakespearebot, comedybot,comedy bot, jokes, funny
-Requires at least: 3.3
-Tested up to: 4.4.1
-Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Add an Elizaibots chatbot to your wordpress site using the shortcode to embed the bot and conversation on your blog. Keep your readers amused!
+Add an Elizbot chatbot to your wordpress site using the shortcode to embed the bot and conversation on your blog. Keep your readers amused!
 
 == Description ==
 
@@ -48,9 +44,7 @@ Program O is a open source, free to use, PHP, MySQL and AIML chatbot. This plugi
 1. An example of a chatbot window
 
 == Changelog ==
-= 1.0.0 = Intial commit
-= 1.0.1 = Minor changes to the readme.txt
-= 1.0.2 = Updated the API URL
+= 0.1 = Intial commit
 
 == Upgrade notice ==
 
